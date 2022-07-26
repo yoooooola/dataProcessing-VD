@@ -1,0 +1,7 @@
+gensim==4.1.2
+nltk==3.6.2
+numpy==1.22.0
+pandas==1.2.4
+pickleshare==0.7.5
+torch==1.9.0+cu111
+tqdm==4.61.2
